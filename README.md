@@ -1,4 +1,4 @@
-# QR Code Decryption Tool - CTF Walkthrough for Flagyard
+# QRRR! Code Decryption Tool - CTF Walkthrough for Flagyard
 
 ### The files I uploaded are a showcase of my attempts to solve the CTF.
 
