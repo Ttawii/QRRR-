@@ -1,9 +1,9 @@
 def remove_duplicates(data):
-    # إزالة الأسطر المكررة باستخدام مجموعة (set)
+    
     unique_data = set(data)
     return unique_data
 
-# البيانات المدخلة
+
 data = [
     'SyntL{q6pnbcxfqcbnfxqEEE!}',
     'SyntL{qbnfxqcbnfxqnfxqcbnf_nbfqwfnvwqbnvfwqbv_nfffnff!}',
@@ -48,9 +48,9 @@ data = [
     'SyntL{bqfc2tqfqsfq!}'
 ]
 
-# إزالة الأسطر المكررة
+
 unique_codes = remove_duplicates(data)
 
-# طباعة النتائج
+
 for code in unique_codes:
     print(code)
