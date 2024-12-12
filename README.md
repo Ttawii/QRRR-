@@ -128,9 +128,12 @@ I hope this project serves as a useful resource for others tackling similar chal
 Feel free to reach out with any questions or suggestions!
 
 
+### Contact me: 
+
 <a href="https://www.instagram.com/t2tt/" style="color: white; text-decoration: none;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="30" />
 </a>
+
 
 
 
