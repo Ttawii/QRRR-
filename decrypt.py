@@ -3,7 +3,7 @@ import codecs
 def decode_rot13(text):
     return codecs.decode(text, 'rot_13')
 
-# مثال لاستخدام الأداة
+
 encoded_texts = [
     "SyntL{q6pnbcxfqcbnfxqEEE!}",
     "SyntL{qbnfxqcbnfxqnfxqcbnf_nbfqwfnvwqbnvfwqbv_nfffnff!}",
@@ -25,9 +25,9 @@ encoded_texts = [
     "SyntL{bqfc2tqfqsfq!}"
 ]
 
-# فك تشفير جميع النصوص
+
 decoded_texts = [decode_rot13(text) for text in encoded_texts]
 
-# طباعة النصوص المفكوكة
+
 for text in decoded_texts:
     print(text)
